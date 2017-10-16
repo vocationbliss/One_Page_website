@@ -1,21 +1,21 @@
 # Introduction
-You are tasked out to create a webiste displaying stories you were told when you were a child the title of the webiste is called STORY TIME.
+Students are tasked to create a one page website. This task is designed to test the basic knowledge of the students in HTML5 and CSS 3 Fundamentals and to assist in creating the student’s portfolios as the industry expect the latest tags and styles to be used. The point of this task is not to make a beautiful website but it is to show the understanding of the code and to make sure proper HTML tags are used and implemented in the right way.
+The website can be about anything as long as the instruction will be followed.
 
-## For your the header section:
-* Create your own logo in canvas and display it on the left 
-* Display the navigation bar stating the: [About], [All stories](dropdown of upcoming , latest, most read, least read) 
-## Your content:
-* divide your page wrapping it up in headings and sub-headings however,
-* 3 article section align all text to the centre
-## Your footer:
-* Set your footer @2017 all rights reserved client | designed by you.
-## On your css: Not in inline
-* set the HTML backgroung gradient [moz-linear-gradient-top 0-100%], [webkit-linear-gradient top 0-100%], [linear-gradient to bottom 0-100%], font family to "time new romans".
-* set the content width to 100% imperdient, background to #ffffff, padding to 10px and heaight to auto
-* set the page heading background to #666, align text to center, padding to 10px
-* set the header's width to 100%, background to #666, height to 120px, position fixed, z index to 1000 amd opacity to 0.90
-* Your nav bar position should be relative, float to the rigght, display inline block, list style type to none, float to the left, marging right to 0.21px, height to 50px, min width to 140px, align text to the center, set line-height to 8px,: hover color to #000000, font style: italic
-* set the wrapper margin top to 90 px, width 100px and height to auto
-* set the article section width to 100% imperdient, padding 10px, height to auto
-* set the footer background to #333333, overflow hidden, opacity to 0.90 and align text to the center.
+## Specifics and Instructions:
+* No student is allowed to view the source code and copy the code from the task’s code.
+* All students to meet the time frame given by the facilitator.
+* The website doesn’t have to be responsive but if you choose to make it mobile responsive make sure it is actually responsive and if its not marks will be deducted.
+## In creating this one page website we are expecting to see the following:
+* The folder sequence to be followed everything to its folder.
+* Style.css to be separated and linked into the HTML file.
+* Gradient colors styling the background of the HTML tags any colors are welcome.
+* Different color styling the body background can be any colors.
+* Navigation bar to be on the left and the logo on the right of the header section with proper styling having line-height that set the content to appear centered very well background color to be set to #999999 or #666666 and text color to be white, The logo can be a word or an actual logo image.
+* Three columns to be implemented with proper paddings and margins
+* Article tags with article content to be used.
+* The abbreviation tags to be used anywhere in the site when one hover the abbreviation word it must show the meaning of the word.
+* Footer to be styled with a background of #171717 and a text-color of #d4d4d4
+* Adding other HTML element such as tables, images, favicons will depend of the student, no limits.
 
+All the best to everyone!!
