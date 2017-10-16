@@ -18,4 +18,4 @@ The website can be about anything as long as the instruction will be followed.
 * Footer to be styled with a background of #171717 and a text-color of #d4d4d4
 * Adding other HTML element such as tables, images, favicons will depend of the student, no limits.
 
-All the best to everyone!!
+On completion the task should look like this ![Alt text](file:///home/quirky30/Pictures/Screenshot%20from%202017-10-16%2015:12:50.png "Optional title")
