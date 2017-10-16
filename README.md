@@ -18,4 +18,4 @@ The website can be about anything as long as the instruction will be followed.
 * Footer to be styled with a background of #171717 and a text-color of #d4d4d4
 * Adding other HTML element such as tables, images, favicons will depend of the student, no limits.
 
-[On completion the task should look like this](https://github.com/Quirky30DevFest/One_Page_website/issues)
+[On completion the task should look like this](https://github.com/Quirky30DevFest/One_Page_website/issues/1)
