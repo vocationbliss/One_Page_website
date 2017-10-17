@@ -17,5 +17,6 @@ The website can be about anything as long as the instruction will be followed.
 * The abbreviation tags to be used anywhere in the site when one hover the abbreviation word it must show the meaning of the word.
 * Footer to be styled with a background of #171717 and a text-color of #d4d4d4
 * Adding other HTML element such as tables, images, favicons will depend of the student, no limits.
+### THIS TASK SHOULD BE COMPLETED AFTER 7 WORKING ON IT. THE DEMO OF THIS TASK WILL START ON TUESDAY 14H00PM
 
-[On completion the task should look like this](https://github.com/Quirky30DevFest/One_Page_website/issues/1)
+### [On completion the task should look like this](https://github.com/Quirky30DevFest/One_Page_website/issues/1)
