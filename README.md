@@ -20,3 +20,5 @@ The website can be about anything as long as the instruction will be followed.
 ### THIS TASK SHOULD BE COMPLETED AFTER 7 WORKING ON IT. THE DEMO OF THIS TASK WILL START ON TUESDAY 14H00PM
 
 ### [On completion the task should look like this](https://github.com/Quirky30DevFest/One_Page_website/issues/1)
+
+#### [YOUR NEXT TASK](https://github.com/Quirky30DevFest/JsFunctions)
