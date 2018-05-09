@@ -11,13 +11,13 @@ The website can be about anything as long as the instruction will be followed.
 * Style.css to be separated and linked into the HTML file.
 * Gradient colors styling the background of the HTML tags any colors are welcome.
 * Different color styling the body background can be any colors.
-* Navigation bar to be on the left and the logo on the right of the header section with proper styling having line-height that set the content to appear centered very well background color to be set to #999999 or #666666 and text color to be white, The logo can be a word or an actual logo image.
+* Top Navigation bar menu to be on the left and the logo on the right of the header section with proper styling having line-height that set the content to appear centered very well background color to be set to #999999 or #666666 and text color to be white, The logo can be a word or an actual logo image.
 * Three columns to be implemented with proper paddings and margins
 * Article tags with article content to be used.
 * The abbreviation tags to be used anywhere in the site when one hover the abbreviation word it must show the meaning of the word.
 * Footer to be styled with a background of #171717 and a text-color of #d4d4d4
 * Adding other HTML element such as tables, images, favicons will depend of the student, no limits.
-### THIS TASK SHOULD BE COMPLETED AFTER 7 WORKING ON IT. THE DEMO OF THIS TASK WILL START ON TUESDAY 14H00PM
+### THIS TASK SHOULD BE COMPLETED AFTER 14 DAYS WORKING ON IT. THE DEMO OF THIS TASK WILL START ON TUESDAY 14H00PM
 
 ### [On completion the task should look like this](https://github.com/Quirky30DevFest/One_Page_website/issues/1)
 
