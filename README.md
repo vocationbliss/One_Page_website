@@ -21,4 +21,4 @@ The website can be about anything as long as the instruction will be followed.
 
 ### [On completion the task should look like this](https://github.com/Quirky30DevFest/One_Page_website/issues/1)
 
-#### [YOUR NEXT TASK](https://github.com/Quirky30DevFest/LocalBrands-Project)
+#### [YOUR NEXT TASK](https://github.com/Quirky30DevFest/Deploy-Site)
