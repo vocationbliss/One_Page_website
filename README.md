@@ -5,7 +5,7 @@ The website can be about anything as long as the instruction will be followed.
 ## Specifics and Instructions:
 * No student is allowed to view the source code and copy the code from the task’s code.
 * All students to meet the time frame given by the facilitator.
-* The website doesn’t have to be responsive but if you choose to make it mobile responsive make sure it is actually responsive and if its not marks will be deducted.
+* The website have to be responsive Using [Boostrap](http://getbootstrap.com/)
 ## In creating this one page website we are expecting to see the following:
 * The folder sequence to be followed everything to its folder.
 * Style.css to be separated and linked into the HTML file.
